@@ -1,7 +1,7 @@
 <p align='center'> <img src= "hellothereobi.gif"> </p>
 
 <p align='center'>
-Master of Science in Data Analytics Engineering
+I am studying Master of Science in Data Analytics Engineering
 from Northeastern University
 </p>
 
