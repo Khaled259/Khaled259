@@ -1,7 +1,8 @@
 <p align='center'> <img src= "hellothereobi.gif"> </p>
 
 <p align='center'>
-I'm a computer science student studying at the University of Helsinki.
+Master of Science in Data Analytics Engineering
+from Northeastern University
 </p>
 
 <p align='center'> These are the things I use and work with or have used or worked with </p>
