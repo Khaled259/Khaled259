@@ -1,5 +1,7 @@
 <p align='center'> <img src= "hellothereobi.gif"> </p>
 
+<p align='center'> <img src= "hellothereobi.gif"> </p>
+
 <p align='center'>
 I am studying Master of Science in Data Analytics Engineering
 from Northeastern University
