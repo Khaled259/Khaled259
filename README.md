@@ -1,4 +1,3 @@
-<p align='center'> <img src= "hellothereobi.gif"> </p>
 
 <p align='center'> <img src= "hellothereobi.gif"> </p>
 
